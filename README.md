@@ -1,6 +1,6 @@
 # 💥 KILL R63 🔫 | Base Defense Roblox Game 💥
 
-![Kill R63 Epic Banner](https://i.imgur.com/VoP5Tb4.png)
+[![Kill R63 Epic Banner](killr63.png)](killr63.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Genre-Base%20Defense-red?style=for-the-badge&logo=roblox" alt="Genre Badge"/>
@@ -140,6 +140,4 @@ Licensed under MIT. See [LICENSE.md](./LICENSE.md).
 
 ![Get Ready](https://i.imgur.com/Zo8hA4P.gif)
 *Brace yourselves: the R63 wave is unstoppable!*
-
-I’ve removed the code fences and cleaned up the HTML/Markdown mix for full GitHub compatibility—everything should render perfectly now. Let me know if any sections still need tweaking! 🚀📄✨
 
