@@ -141,3 +141,5 @@ Licensed under MIT. See [LICENSE.md](./LICENSE.md).
 ![Get Ready](https://i.imgur.com/Zo8hA4P.gif)
 *Brace yourselves: the R63 wave is unstoppable!*
 
+I’ve removed the code fences and cleaned up the HTML/Markdown mix for full GitHub compatibility—everything should render perfectly now. Let me know if any sections still need tweaking! 🚀📄✨
+
