@@ -128,7 +128,7 @@ Please follow our [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md). 💖
 
 - **Play Now:** https://www.roblox.com/ 
 - **Discord:** https://discord.gg/ 
-- **Twitter:** https://twitter.com/KillR63Game 
+- **Twitter:** https://twitter.com/
 
 ---
 
