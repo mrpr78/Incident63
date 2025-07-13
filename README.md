@@ -25,7 +25,7 @@
 - **Unique R63 Enemies**: Riflemans, rocket launchers, grenadiers and melee.
 - **Progression System (TO BE IMPLEMENTED)**: Levels & research tree
 - **Multiplayer**: Play with up to 50 players
-- **Boss (TO BE IMPLEMENTED)**
+- **Bosses (TO BE IMPLEMENTED)**
 - **Special Modes (TO BE IMPLEMENTED)**: Open world.
 - **High quality weapon animations**
 
