@@ -44,30 +44,16 @@
 
 | Quarter   | Planned Updates                                         |
 | :-------- | :------------------------------------------------------ |
-| Q3 2025   | Cosmetic Shop, Volcanic Island Map 🌋, PvP Tournaments 🏆 |
-| Q4 2025   | Space Station Zero‑G Level 🌌, Mechs & Vehicle Combat 🚗 |
-| 2026      | Mobile Support 📱, Guild System & Clan Wars ⚔️, Story Mode 📖 |
+| Q3 2025   | TODO |
+| Q4 2025   | TODO |
+| 2026      | TODO |
 
 ---
 
 ## FAQs
 
-**Q: Can I play solo?**  
-A: Yes, but that will be very hard
-
 **Q: How to report bugs?**  
 A: You can report bugs on our discord server
-
----
-
-## Team & Credits
-
-| Developer      | Role                                        |
-| -------------- | ------------------------------------------- |
-| ⭐ Старый       | Lead Dev, Game Logic, Weapon Systems        |
-| 🎨 Teammate1   | UI/UX, Art & Animations                     |
-| 🎵 Teammate2   | Audio Engineering, Soundtrack & FX          |
-| 🕹️ Teammate3   | Wave Design, AI Behavior, Balance           |
 
 ---
 
