@@ -14,7 +14,7 @@
 
 ## Overview
 
-**INCIDENT 63** is the base-defense game on Roblox. Team up with friends or go solo to survive waves of R63.
+**INCIDENT 63** is the base-defense game on Roblox (New modes to be added). Team up with friends or go solo to survive waves of R63.
 
 ---
 
